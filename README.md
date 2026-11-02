@@ -70,6 +70,12 @@ A mod that keeps values for drawing also has `types/index.d.ts`, its state contr
 
 Copy `first-mod`, rename the folder, and change `name` in `plugin.json`. The engine's API docs are in the types file it writes to `.claude-plugin/types/claude-code/index.d.ts` after a mod first loads.
 
+## Other mods worth a look
+
+Mods by other people that I use or recommend. They are not part of this repo; go to their pages for the code, license and install steps.
+
+- [Visor](https://github.com/NinDevs/visor) by NinDevs: a pet, status line themes, token audit and report for Claude Code.
+
 ## License
 
 MIT
