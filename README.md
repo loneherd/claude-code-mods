@@ -18,7 +18,7 @@ Built and tested on Claude Code **2.1.287** on Windows. Mods are a recent Claude
 
 1. Clone this repo anywhere:
    ```
-   git clone https://github.com/wickedhardflip/claude-code-mods.git
+   git clone https://github.com/loneherd/claude-code-mods.git
    ```
 2. Pick how to load the mods.
 
